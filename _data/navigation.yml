@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://jeremyforest.github.io
-  - title: "cv"
-    url: https://jeremforest.gitbuh.io/cv
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Cv"
+    url: https://jeremyforest.github.io/Cv
+  - title: "Papers"
+    url: https://jeremyforest.github.io/Papers
+  - title: "Blog"
+    url: 
   # - title: "Sitemap"
   #   url: /sitemap/
