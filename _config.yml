@@ -100,20 +100,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Jeremy Forest"
+  avatar           : /assets/images/Img_Jeremy_CV.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Neuroscience researcher interesting in learning and memory, metarepresentation, consciousness, artificial intelligence and many other things"
+  location         : "Lyon, France"
+  email            : "jerem.forest@gmail.com"
+  uri              : "https://jeremyforest.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  flickr           : 
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "jeremyforest"
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "_JeremF"
   vine             :
   weibo            :
   xing             :
