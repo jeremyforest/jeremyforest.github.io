@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://jeremyforest.github.io
   - title: "Cv"
-    url: https://jeremyforest.github.io/Cv
+    url: /_pages/Forest_CV_28.08.18.pdf
   - title: "Papers"
-    url: https://jeremyforest.github.io/Papers
+    url: 
   - title: "Blog"
     url: 
   # - title: "Sitemap"
