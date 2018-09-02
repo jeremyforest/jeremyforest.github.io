@@ -2,11 +2,9 @@
 main:
   - title: "Home"
     url: https://jeremyforest.github.io
-  - title: "Cv"
-    url: /_pages/Cv/Forest_CV_28.08.18.pdf
+  - title: "CV"
+    url: /CV/
   - title: "Papers"
-    url: /_pages/Papers/
+    url: /Papers/
   - title: "Blog"
     url: 
-  # - title: "Sitemap"
-  #   url: /sitemap/
