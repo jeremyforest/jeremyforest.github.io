@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: publication
 author_profile: true
 ---
 
@@ -73,7 +73,7 @@ Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken; Traumatic st
 Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken; Traumatic stress impairs learning and memory formation via an endocannabinoid system in Lymnaea stagnalis. 52nd Annual Meeting of the
 Biophysical Society of Japan. Sapporo, Japan. September 2014.
 
- 
+
 ### <a name="thesis"></a> Dissertation
 Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [pdf](/Papers/ThesisDissertation.pdf)
 
@@ -81,8 +81,3 @@ Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb dur
 
 Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-termmemory in the pond snail Lymnaea
 stagnalis [pdf](/Papers/MemoireM1.pdf)
-
-
-
-
-
