@@ -1,6 +1,7 @@
 ---
-layout: publication
+layout: archive
 author_profile: true
+permalink: /papers/
 
 ---
 
