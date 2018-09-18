@@ -22,8 +22,10 @@ title: "Publications"
 
 ## Coming soon
 
-### **Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
+###
+**Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
 
+###
 **Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Adultborn neurons underlie competition between transience and persistence of olfactory perceptual memory.
 
 Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jeremy**, Richard Marion, Adrianna Milton, Didier Anne, Wesson Dan, Mandairon Nathalie The reward system supports spontaneous attraction to odorants.
