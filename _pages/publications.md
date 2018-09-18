@@ -1,6 +1,6 @@
 ---
-author_profile: true
 permalink: /papers/
+author_profile: true
 title: "Publications"
 
 ---
