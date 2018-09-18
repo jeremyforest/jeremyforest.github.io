@@ -2,6 +2,7 @@
 title: Hello World
 date: 2018-09-01
 excerpt: hello world
+permalink: /posts/
 ---
 
 Hello,
