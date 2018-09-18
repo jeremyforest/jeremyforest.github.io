@@ -1,6 +1,7 @@
 ---
 layout: publication
 author_profile: true
+
 ---
 
 <div class="navbar">

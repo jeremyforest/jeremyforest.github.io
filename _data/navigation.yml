@@ -7,4 +7,6 @@ main:
   - title: "Papers"
     url: /Papers/
   - title: "Blog"
-    url: 
+    url:
+  - title: 'About'
+    url: /about/
