@@ -1,6 +1,6 @@
 ---
-permalink: /home/
-layout: splash
+permalink: https://jeremyforest.github.io
+layout: home
 title: "About me"
 author_profile: true
 header:
@@ -8,5 +8,3 @@ header:
 ---
 
 TEST2
-
-{% include home.html %}
