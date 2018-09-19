@@ -1,6 +1,6 @@
 ---
-permalink: /
-layout: home
+permalink: /home/
+layout: splash
 title: "About me"
 author_profile: true
 header:
@@ -8,3 +8,5 @@ header:
 ---
 
 TEST2
+
+{include home.html}
