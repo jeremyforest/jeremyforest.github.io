@@ -1,9 +1,6 @@
 ---
-permalink: /papers/
-author_profile: true
-title: "Publications"
 layout: publication
-
+author_profile: true
 ---
 
 <div class="navbar">
@@ -18,11 +15,10 @@ layout: publication
 	</div>
 </div>
 
-# <a name="articles"></a> Articles
+### <a name="articles"></a> Articles
 
 
-## Coming soon
-
+#### Coming soon
 **Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
 
 **Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Adultborn neurons underlie competition between transience and persistence of olfactory perceptual memory.
