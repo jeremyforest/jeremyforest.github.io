@@ -1,5 +1,5 @@
 ---
-permalink: https://jeremyforest.github.io/
+permalink: /
 layout: home
 title: "About me"
 author_profile: true
