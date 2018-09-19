@@ -8,3 +8,7 @@ layout: home
 ---
 
 TEST
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
