@@ -9,4 +9,4 @@ header:
 
 TEST2
 
-{include home.html}
+{% include home.html %}
