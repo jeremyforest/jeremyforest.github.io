@@ -20,10 +20,10 @@ header:
 	</div>
 </div>
 
-### <a name="articles"></a> Articles
+## <a name="articles"></a> Articles
 
 
-#### Coming soon
+### ***Coming soon***
 
 **Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
 
@@ -45,12 +45,12 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 
 
-### <a name="reviews"></a> Reviews
+## <a name="reviews"></a> Reviews
 
 **Forest Jeremy**, Midroit Maellie, Mandairon Nathalie (2017) La plasticité hors du commun du système olfactif. Pollution atmosphérique n°234 avril-juin 2017. [doi](https://doi.org/10.4267/pollution-atmospherique.5247) [pdf](/Papers/Forest2017.pdf)
 
 
-### <a name="talks"></a> Talks
+## <a name="talks"></a> Talks
 
 **Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie. Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. Society for Neuroscience 47th annual meeting, Washington, USA, November 2017. [pdf](/Papers/ForestTalk2017c.pdf)
 
@@ -68,7 +68,7 @@ Mandairon Nathalie, Richard Marion, Moreno Melissa, **Forest Jeremy**, Yin Xumin
 
 
 
-### <a name="posters"></a> Posters
+## <a name="posters"></a> Posters
 
 Terrier Claire, Yin Xuming, Midroit Maellie, **Forest Jeremy**, Sacquet Joelle, Thevenet Marc, Mandairon Nathalie, Didier Anne, Richard Marion. Investigating role of noradrenaline in olfactory discrimination during aging. Association for Chemoreception Science, Bonita Springs, FL, USA. April 2018.
 
@@ -80,7 +80,7 @@ Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken; Traumatic st
 Biophysical Society of Japan. Sapporo, Japan. September 2014.
 
 
-### <a name="thesis"></a> Dissertation
+## <a name="thesis"></a> Dissertation
 Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [pdf](/Papers/ThesisDissertation.pdf)
 
 Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning [pdf](/Papers/MemoireM2.pdf)
