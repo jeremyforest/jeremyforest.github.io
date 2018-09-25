@@ -2,6 +2,8 @@
 title: Hello World
 date: 2018-09-01
 excerpt: Hello world ! First post !
+header:
+  image: /assets/images/DSCF8780.JPG
 permalink: /posts/
 ---
 

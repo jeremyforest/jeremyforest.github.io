@@ -4,7 +4,7 @@ author_profile: true
 title: "Publications"
 layout: publication
 header:
-  image: /assets/images/DSC_5400.jpg
+  image: /assets/images/DSCF8779.JPG
 
 ---
 
