@@ -4,7 +4,7 @@ date: 2018-09-01
 excerpt: Hello world ! First post !
 header:
   image: /assets/images/DSCF8780.jpg
-permalink: /posts/post1
+permalink: /posts/post1/
 ---
 
 Hello,
