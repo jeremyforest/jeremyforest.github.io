@@ -259,7 +259,7 @@ compress_html:
 
 # Collections
 collections:
-  _posts:
+  posts:
     output: true
     permalink: /:collection/:path/
 
