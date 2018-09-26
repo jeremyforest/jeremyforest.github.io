@@ -261,7 +261,7 @@ compress_html:
 collections:
   posts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /_posts/:name/
 
 
 # Defaults
