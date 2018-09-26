@@ -1,6 +1,6 @@
 ---
 title: Website update
-date: 2018-09-01
+date: 2018-09-28
 excerpt: V1.0 functional
 header:
   image: /assets/images/DSCF8780.jpg
