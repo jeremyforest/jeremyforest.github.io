@@ -258,6 +258,11 @@ compress_html:
 
 
 # Collections
+collections:
+  _posts:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
