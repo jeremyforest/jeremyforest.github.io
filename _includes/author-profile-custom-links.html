@@ -21,3 +21,12 @@
   </a>
 </li>
 {% endif %}
+
+
+{% if author.researchgate %}
+<li>
+  <a href="https://www.researchgate.net/profile/{{ author.scholar }}" itemprop="sameAs">
+    <i class="fab fa-researchgate" aria-hidden="true"></i> Researchgate
+  </a>
+</li>
+{% endif %}

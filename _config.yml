@@ -132,7 +132,9 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   scholar          : "yx9t92sAAAAJ&hl=fr"
+  researchgate     : "Jeremy_Forest2"
 
+  
 # Reading Files
 include:
   - .htaccess
