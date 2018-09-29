@@ -32,7 +32,7 @@ Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jerem
 
 
 #### 2018
-Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. *eLIFE 2018;7:e34976*. [doi](https://doi.org/10.7554/eLife.34976) [pdf](/Papers/Mandairon2018.pdf)
+Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. *eLIFE 2018;7:e34976*. [![doi](/assets/images/icons/doi.png)](https://doi.org/10.7554/eLife.34976) [pdf](/Papers/Mandairon2018.pdf)
 
 #### 2017
 Sunada Hiroshi, Watanabe Takayuki, Hatakeyama Dai, Lee Sangmin, **Forest Jeremy**, Sakakibara Manubu, Ito Etwuro, Lukowiak Ken (2017) Pharmacological effects of cannabinoids on learning and memory in Lymnaea. *Journal of Experimental Biology 220 3026-3038*. [doi](https://doi.org/10.1242/jeb.159038) [pdf](/Papers/Sunada2017.pdf)
