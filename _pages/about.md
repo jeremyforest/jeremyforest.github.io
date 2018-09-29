@@ -2,4 +2,4 @@
 layout: home
 ---
 
-*About me :* 
+__About me :__
