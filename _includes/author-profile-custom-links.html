@@ -13,3 +13,11 @@
   </a>
 </li>
 {% endif %}
+
+{% if author.scholar %}
+<li>
+  <a href="https://scholar.google.com/citations?user={{ author.scholar }}" itemprop="sameAs">
+    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+  </a>
+</li>
+{% endif %}
