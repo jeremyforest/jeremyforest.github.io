@@ -1,9 +1,9 @@
 ---
+permalink: /posts/
 layout: archive
 header:
   image: /assets/images/DSC_5400.jpg
 title: "Posts"
-permalink: /posts/
 
 ---
 
