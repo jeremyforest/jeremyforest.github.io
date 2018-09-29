@@ -32,21 +32,21 @@ Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jerem
 
 
 #### 2018
-Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. *eLIFE 2018;7:e34976*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.7554/eLife.34976) [pdf](/Papers/Mandairon2018.pdf)
+Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. *eLIFE 2018;7:e34976*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.7554/eLife.34976) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Mandairon2018.pdf)
 
 #### 2017
-Sunada Hiroshi, Watanabe Takayuki, Hatakeyama Dai, Lee Sangmin, **Forest Jeremy**, Sakakibara Manubu, Ito Etwuro, Lukowiak Ken (2017) Pharmacological effects of cannabinoids on learning and memory in Lymnaea. *Journal of Experimental Biology 220 3026-3038*. [doi](https://doi.org/10.1242/jeb.159038) [pdf](/Papers/Sunada2017.pdf)
+Sunada Hiroshi, Watanabe Takayuki, Hatakeyama Dai, Lee Sangmin, **Forest Jeremy**, Sakakibara Manubu, Ito Etwuro, Lukowiak Ken (2017) Pharmacological effects of cannabinoids on learning and memory in Lymnaea. *Journal of Experimental Biology 220 3026-3038*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1242/jeb.159038) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Sunada2017.pdf)
 
 #### 2016
-**Forest Jeremy**, Sunada Hiroshi, Dodd Shawn, Lukowiak Ken (2016) Training Lymnaea in the presence of a predator scent results in a long-lasting ability to form enhanced long-term memory. *J.Comp.Physiol A 202:399-409*. [doi](https://doi.org/10.1007/s00359-016-1086-z) [pdf](/Papers/Forest2016.pdf)
+**Forest Jeremy**, Sunada Hiroshi, Dodd Shawn, Lukowiak Ken (2016) Training Lymnaea in the presence of a predator scent results in a long-lasting ability to form enhanced long-term memory. *J.Comp.Physiol A 202:399-409*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1007/s00359-016-1086-z) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2016.pdf)
 
-Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet Marc, Sacquet Joelle, Benetollo Claire, Richard Marion, Didier Anne, Mandairon Nathalie (2016) Topographical representation of odor hedonics in the olfactory bulb. *Nature Neuroscience 19,7,876:880*. [doi](https://doi.org/10.1038/nn.4317) [pdf](/Papers/Kermen2016.pdf)
+Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet Marc, Sacquet Joelle, Benetollo Claire, Richard Marion, Didier Anne, Mandairon Nathalie (2016) Topographical representation of odor hedonics in the olfactory bulb. *Nature Neuroscience 19,7,876:880*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/nn.4317) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Kermen2016.pdf)
 
 
 
 ## ***<a name="reviews"></a> Reviews***
 
-**Forest Jeremy**, Midroit Maellie, Mandairon Nathalie (2017) La plasticité hors du commun du système olfactif. *Pollution atmosphérique n°234 avril-juin 2017*. [doi](https://doi.org/10.4267/pollution-atmospherique.5247) [pdf](/Papers/Forest2017.pdf)
+**Forest Jeremy**, Midroit Maellie, Mandairon Nathalie (2017) La plasticité hors du commun du système olfactif. *Pollution atmosphérique n°234 avril-juin 2017*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.4267/pollution-atmospherique.5247) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2017.pdf)
 
 
 ## ***<a name="talks"></a> Talks***
@@ -79,8 +79,8 @@ Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken Traumatic str
 
 
 ## ***<a name="thesis"></a> Dissertation***
-Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [pdf](/Papers/ThesisDissertation.pdf)
+Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/ThesisDissertation.pdf)
 
-Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning [pdf](/Papers/MemoireM2.pdf)
+Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM2.pdf)
 
-Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-termmemory in the pond snail Lymnaea stagnalis [pdf](/Papers/MemoireM1.pdf)
+Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-termmemory in the pond snail Lymnaea stagnalis [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM1.pdf)
