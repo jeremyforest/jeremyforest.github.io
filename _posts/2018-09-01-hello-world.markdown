@@ -1,4 +1,5 @@
 ---
+permalink: /posts/post1
 title: Hello World
 date: 2018-09-01
 excerpt: Hello world ! First post !
