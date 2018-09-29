@@ -5,3 +5,11 @@
     </a>
   </li>
 -->
+
+{% if author.orcid %}
+<li>
+  <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+    <i class="fas fa-fw" aria-hidden="true"></i> Orcid
+  </a>
+</li>
+{% endif %}
