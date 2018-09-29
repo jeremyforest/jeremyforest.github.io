@@ -1,4 +1,5 @@
 ---
+permalink: https://jeremyforest.github.io/
 layout: home
 ---
 
