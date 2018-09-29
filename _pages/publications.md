@@ -51,15 +51,15 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 ## ***<a name="talks"></a> Talks***
 
-**Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. *Society for Neuroscience 47th annual meeting, Washington, USA, November 2017*. [pdf](/Papers/ForestTalk2017c.pdf) [abstract](/Papers/ForestTalk2017c_abstract.pdf)
+**Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. *Society for Neuroscience 47th annual meeting, Washington, USA, November 2017*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017c.pdf) [abstract](/Papers/ForestTalk2017c_abstract.pdf)
 
-**Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex perceptual learning. *Neurosciences and Cognition doctoral school. Lyon, France. September 2017*.[pdf](/Papers/ForestTalk2017b.pdf)
+**Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex perceptual learning. *Neurosciences and Cognition doctoral school. Lyon, France. September 2017*.[![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017b.pdf)
 
-**Forest Jeremy** Olfactory bulb plasticity during simple and complex learning – the central role of newborn neurons. CPL Team meeting. *Cornell University, Ithaca, USA. April 2017* [pdf](/Papers/ForestTalk2017a.pdf)
+**Forest Jeremy** Olfactory bulb plasticity during simple and complex learning – the central role of newborn neurons. CPL Team meeting. *Cornell University, Ithaca, USA. April 2017* [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017a.pdf)
 
-**Forest Jeremy** Plasticité neuronale du bulbe olfactif lors d’apprentissage simple et complexe. *Presentation in 180s. GDR Olfaction. Lyon, France. October 2016*. [pdf](/Papers/ForestTalk2016b.pdf)
+**Forest Jeremy** Plasticité neuronale du bulbe olfactif lors d’apprentissage simple et complexe. *Presentation in 180s. GDR Olfaction. Lyon, France. October 2016*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2016b.pdf)
 
-**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie Neuronal plasticity in the olfactory bulb during simple and complex learning. Plasticity Workshop. *Lyon, France. March 2016* [pdf](/Papers/ForestTalk2016a.pdf)
+**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie Neuronal plasticity in the olfactory bulb during simple and complex learning. Plasticity Workshop. *Lyon, France. March 2016* [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2016a.pdf)
 
 Yin Xuming, **Forest Jeremy**, Midroit Maellie, Sacquet Joelle, Kuczewski Nicola, Richard Marion, Mandairon Nathalie, Didier Anne Olfactory perceptual learning shapes morphology of adult born granule cells and their imputs from locus coeruleus. *Society for Neuroscience 45th annual meeting. Chicago, USA. October 2015*.
 
@@ -71,7 +71,7 @@ Mandairon Nathalie, Richard Marion, Moreno Melissa, **Forest Jeremy**, Yin Xumin
 
 Terrier Claire, Yin Xuming, Midroit Maellie, **Forest Jeremy**, Sacquet Joelle, Thevenet Marc, Mandairon Nathalie, Didier Anne, Richard Marion Investigating role of noradrenaline in olfactory discrimination during aging. *Association for Chemoreception Science, Bonita Springs, FL, USA. April 2018*.
 
-**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie Olfactory bulb plasticity during complex perceptual learning in mice. *Society for Neuroscience 45th annual meeting, Chicago, USA. October 2015*. [pdf](/Papers/ForestPoster2015.pdf) [abstract](/Papers/ForestPoster2015_abstract.pdf)
+**Forest Jeremy**, Richard Marion, Sacquet Joelle, Benetollo Claire, Didier Anne, Mandairon Nathalie Olfactory bulb plasticity during complex perceptual learning in mice. *Society for Neuroscience 45th annual meeting, Chicago, USA. October 2015*. [![poster](/assets/images/icons/poster-icon.png)]/Papers/ForestPoster2015.pdf) [abstract](/Papers/ForestPoster2015_abstract.pdf)
 
 Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken Traumatic stress impairs learning and memory formation via an endocannabinoid system in Lymnaea stagnalis. *37th Annual Meeting of the Japan Neuroscience Society, Yokohama Japan. September 2014*.
 
