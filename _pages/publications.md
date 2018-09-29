@@ -55,7 +55,7 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex perceptual learning. *Neurosciences and Cognition doctoral school. Lyon, France. September 2017*.[![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017b.pdf)
 
-**Forest Jeremy** Olfactory bulb plasticity during simple and complex learning – the central role of newborn neurons. CPL Team meeting. *Cornell University, Ithaca, USA. April 2017* [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017a.pdf)
+**Forest Jeremy** Olfactory bulb plasticity during simple and complex learning – the central role of newborn neurons. CPL Team meeting. *Cornell University, Ithaca, USA. April 2017*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017a.pdf)
 
 **Forest Jeremy** Plasticité neuronale du bulbe olfactif lors d’apprentissage simple et complexe. *Presentation in 180s. GDR Olfaction. Lyon, France. October 2016*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2016b.pdf)
 
@@ -79,8 +79,8 @@ Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken Traumatic str
 
 
 ## ***<a name="thesis"></a> Dissertation***
-Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/ThesisDissertation.pdf)
+Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment. [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/ThesisDissertation.pdf)
 
-Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM2.pdf)
+Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning. [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM2.pdf)
 
-Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-termmemory in the pond snail Lymnaea stagnalis [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM1.pdf)
+Master 1 thesis: **Forest Jeremy** An epigenetic approach of long-term memory in the pond snail Lymnaea stagnalis. [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM1.pdf)
