@@ -1,4 +1,5 @@
 ---
+permalink: /posts/post2
 title: Website update
 date: 2018-09-28
 excerpt: V1.0 functional
