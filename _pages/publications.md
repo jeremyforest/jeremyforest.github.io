@@ -23,16 +23,16 @@ header:
 
 
 
-### *** Currently working on ***
+### ** Currently working on **
 
-**Forest Jerem**, Katryn Zimmerman, Anne Didier, Nathalie Mandairon Christiane Linster. A model of adult-neurogenesis in the olfactory bulb.
+**Forest Jeremy**, Katryn Zimmerman, Anne Didier, Nathalie Mandairon, Christiane Linster. A model of adult-neurogenesis in the olfactory bulb.
 
 
 ### ***Coming soon***
 
-**Forest Jeremy**, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie. Role of adult-born versus preexisting neurons in olfactory perception in complex olfactory environment.
+**Forest Jeremy**, Chalençon Laura, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie. Role of adult-born versus preexisting neurons in olfactory perception in a complex olfactory environment in mice. *In review*
 
-**Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Adultborn neurons underlie competition between transience and persistence of olfactory perceptual memory.
+**Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding underlies a one neuron-for-one memory principle. *In review*
 
 Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jeremy**, Richard Marion, Adrianna Milton, Didier Anne, Wesson Dan, Mandairon Nathalie The reward system supports spontaneous attraction to odorants.
 
