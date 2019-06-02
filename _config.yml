@@ -103,7 +103,7 @@ author:
   name             : "Jeremy Forest"
   avatar           : /assets/images/Img_Jeremy_CV.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience researcher interesting in learning and memory, metarepresentation and artificial intelligence"
-  location         : "Lyon, France"
+  location         : "New Haven, USA"
   email            : "jerem.forest@gmail.com"
   uri              : "https://jeremyforest.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
