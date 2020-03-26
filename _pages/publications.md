@@ -57,6 +57,8 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 ## ***<a name="talks"></a> Talks***
 
+**Forest Jeremy** Continual learning in Neuroscience. *ContinualAI meeting, March 2020*.  [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2020.pdf)
+
 **Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. *Society for Neuroscience 47th annual meeting, Washington, USA, November 2017*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017c.pdf) [![abstract](/assets/images/icons/pdf-icon.png)](/Papers/ForestTalk2017c_abstract.pdf)
 
 **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex perceptual learning. *Neurosciences and Cognition doctoral school. Lyon, France. September 2017*.[![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017b.pdf)
