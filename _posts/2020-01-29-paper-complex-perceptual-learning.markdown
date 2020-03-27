@@ -1,12 +1,21 @@
-The first paper from my PhD work is now published ! This one took a few years to get all the data needed and quite a number of behavior and microscope hours ! 
+---
+permalink: /posts/post5
+title: New paper
+date: 2020-01-29
+excerpt: Complex perceptual learning
+header:
+  image: /assets/images/DSCF8780.jpg
+---
 
-It's actually been out for a couple of month now, but I'm just taking the time to write this now. It's entitled 'Role of Adult-Born Versus Preexisting Neurons Born at P0 in Olfactory Perception in a Complex Olfactory Environment in Mice'. Here I'll attempt to sum up the main take home message of this paper. 
+The first paper from my PhD work is now published ! This one took a few years to get all the data needed and quite a number of behavior and microscope hours !
+
+It's actually been out for a couple of month now, but I'm just taking the time to write this now. It's entitled 'Role of Adult-Born Versus Preexisting Neurons Born at P0 in Olfactory Perception in a Complex Olfactory Environment in Mice'. Here I'll attempt to sum up the main take home message of this paper.
 
 What we wanted to know was if and how olfactory bulb neuronal populations (the preexisting neurons and the new neurons born from adult neurogenesis) differ when the animal is learning. We used a non-reinforced passive discrimination learning task with several level of difficulty (environmental complexity) in which the animal was exposed to different number of similar odorants for several days. Then we tested the mice on their ability to discriminate these odorant pairs.
 
 ![figure 1](https://github.com/jeremyforest/jeremyforest.github.io/blob/master/_posts/2020-01-29-paper-complex/figure1.jpg)
 
-Animals were able to learn to discriminate all the odorants that we exposed them to. 
+Animals were able to learn to discriminate all the odorants that we exposed them to.
 
 ![figure 2](_posts/2020-01-29-paper-complex/figure2.jpg)
 
@@ -18,7 +27,6 @@ A detailed analysis of neuronal morphology in every group showed a differential 
 
 ![figure 5-6](_posts/2020-01-29-paper-complex/figure5 and 6.jpg)
 
-This lead us to test the hypothesis that preexisting neurons could support learning in the complex perceptual learning task only while adult-born neurons in both simple and complex perceptual learning tasks. To test this we used optogenetic inhibition of each population in the simpler or more complex environment in freely behaving mice and showed that is it indeed the case. 
+This lead us to test the hypothesis that preexisting neurons could support learning in the complex perceptual learning task only while adult-born neurons in both simple and complex perceptual learning tasks. To test this we used optogenetic inhibition of each population in the simpler or more complex environment in freely behaving mice and showed that is it indeed the case.
 
 ![figure 7-8-9](/_posts/2020-01-29-paper-complex/figure7 8 and 9.jpg)
-
