@@ -13,11 +13,11 @@ It's actually been out for a couple of month now, but I'm just taking the time t
 
 What we wanted to know was if and how olfactory bulb neuronal populations (the preexisting neurons and the new neurons born from adult neurogenesis) differ when the animal is learning. We used a non-reinforced passive discrimination learning task with several level of difficulty (environmental complexity) in which the animal was exposed to different number of similar odorants for several days. Then we tested the mice on their ability to discriminate these odorant pairs.
 
-[![figure 1]](https://github.com/jeremyforest/jeremyforest.github.io/blob/master/_posts/2020-01-29-paper-complex/figure1.jpg)
+![figure 1](https://github.com/jeremyforest/jeremyforest.github.io/blob/master/_posts/2020-01-29-paper-complex-perceptual-learning/figure1.jpg)
 
 Animals were able to learn to discriminate all the odorants that we exposed them to.
 
-![figure 2](_posts/2020-01-29-paper-complex/figure2.jpg)
+![figure 2]({{ site.url }}_posts/2020-01-29-paper-complex-perceptual-learning/figure2.jpg)
 
 Previous data tells us that with learning we see an increased in the survival of adult-born neurons, which we also observed here. However, learning to discriminate more odorants did not lead to a proportional increase in adult-born neurons survival. More complex learning however lead to an increased in the recruitment of the surviving neurons to the processing of the task (as indexed by immediate early gene labelling).   
 
