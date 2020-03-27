@@ -25,7 +25,7 @@ Previous data tells us that with learning we see an increased in the survival of
 
 A detailed analysis of neuronal morphology in every group showed a differential involvement of adult-born versus preexisting neurons. On the one hand, adult-born neurons showed increased spine density in the basal, apical proximal and apical distal domains after learning and that independantly of environmental complexity. On the other hand, preexisting neurons showed a spine increase only after being exposed to the more complex learning environment and only in the apical distal domains.
 
-![figure 5-6](_assets/2020-01-29-paper-complex-perceptual-learning/figure5 and 6.jpg)
+![figure 5-6](/assets/2020-01-29-paper-complex-perceptual-learning/figure5 and 6.jpg)
 
 This lead us to test the hypothesis that preexisting neurons could support learning in the complex perceptual learning task only while adult-born neurons in both simple and complex perceptual learning tasks. To test this we used optogenetic inhibition of each population in the simpler or more complex environment in freely behaving mice and showed that is it indeed the case.
 
