@@ -7,4 +7,4 @@ header:
   image: /assets/images/DSCF8780.jpg
 ---
 
-I started a postdoctoral position mid-april at New York University. I'm working on a project which is a collaboration between the Reyes lab in NYU and the Fusi lab in Columbia. THe project is centered around understanding the mechanisms of learning and long-term memory using cortical cultures from mice and computational models.  
+I started a postdoctoral position mid-april at New York University. I'm working on a project which is a collaboration between the Reyes lab in NYU and the Fusi lab in Columbia. The project is centered around understanding the mechanisms of learning and long-term memory using cortical cultures from mice and computational models.  

@@ -2,7 +2,7 @@
 permalink: /posts/post5
 title: New paper: Complex perceptual learning
 date: 2020-01-29
-excerpt: The first paper from my PhD work is now published.
+excerpt: Complex perceptual learning
 header:
   image: /assets/images/DSCF8780.jpg
 ---
@@ -17,7 +17,7 @@ What we wanted to know was if and how olfactory bulb neuronal populations (the p
 
 Animals were able to learn to discriminate all the odorants that we exposed them to.
 
-![figure 2]({{ site.url }}_posts/2020-01-29-paper-complex-perceptual-learning/figure2.jpg)
+![figure 2](_posts/2020-01-29-paper-complex-perceptual-learning/figure2.jpg)
 
 Previous data tells us that with learning we see an increased in the survival of adult-born neurons, which we also observed here. However, learning to discriminate more odorants did not lead to a proportional increase in adult-born neurons survival. More complex learning however lead to an increased in the recruitment of the surviving neurons to the processing of the task (as indexed by immediate early gene labelling).   
 
