@@ -28,11 +28,9 @@ header:
 
 
 #### 2019
-**Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
+**Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
 
 **Forest Jeremy**, Chalençon Laura, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Benetollo Claire, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie. Role of adult-born versus preexisting neurons born at P0 in olfactory perception in a complex olfactory environment in mice. *Cerebral Cortex, Volume 30, Issue 2, February 2020, Pages 534–549*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1093/cercor/bhz105) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019a.pdf)
-
-
 
 #### 2018
 Mandairon Nathalie, Kuczewski Nicola, Kermen Florence, **Forest Jeremy**, Midroit Maellie, Richard Marion, Thevenet Marc, Sacquet Joelle, Linster Christiane, Didier Anne (2018) Opposite regulation of inhibition by adult-born granule cells during implicit versus explicit olfactory learning. *eLIFE 2018;7:e34976*. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.7554/eLife.34976) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Mandairon2018.pdf)
@@ -54,7 +52,7 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 ## ***<a name="talks"></a> Talks***
 
-**Forest Jeremy** Continual learning in Neuroscience. *ContinualAI meeting, March 2020*.  [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2020a.pdf)
+**Forest Jeremy** Continual learning in Neuroscience. *ContinualAI online meeting, March 2020*.  [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2020a.pdf)
 
 **Forest Jeremy**, Caillé Isabelle, Sacquet Joelle, Richard Marion, Didier Anne and Mandairon Nathalie Functional and structural plasticity of adult-born versus preexisting granule cells of the olfactory bulb during simple and complex perceptual learning in mice. *Society for Neuroscience 47th annual meeting, Washington, USA, November 2017*. [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2017c.pdf) [![abstract](/assets/images/icons/pdf-icon.png)](/Papers/ForestTalk2017c_abstract.pdf)
 
