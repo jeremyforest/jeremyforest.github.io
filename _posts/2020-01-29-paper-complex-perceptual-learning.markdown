@@ -1,6 +1,6 @@
 ---
 permalink: /posts/post5
-title: New paper: Complex perceptual learning
+title: New paper on Complex perceptual learning
 date: 2020-01-29
 excerpt: Complex perceptual learning
 header:
