@@ -24,17 +24,14 @@ header:
 
 
 ### ** Currently working on **
-
 **Forest Jeremy**, Katryn Zimmerman, Anne Didier, Nathalie Mandairon, Christiane Linster. A model of adult-neurogenesis in the olfactory bulb.
 
 
-### ***Coming soon***
+#### 2019
+**Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
 
-**Forest Jeremy**, Chalençon Laura, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie. Role of adult-born versus preexisting neurons in olfactory perception in a complex olfactory environment in mice. *In review*
+**Forest Jeremy**, Chalençon Laura, Midroit Maellie, Terrier Claire, Caillé Isabelle, Sacquet Joelle, Benetollo Claire, Martin Kilian, Richard Marion, Didier Anne, Mandairon Nathalie. Role of adult-born versus preexisting neurons born at P0 in olfactory perception in a complex olfactory environment in mice. *Cerebral Cortex, Volume 30, Issue 2, February 2020, Pages 534–549*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1093/cercor/bhz105) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019a.pdf)
 
-**Forest Jeremy**, Moreno Melissa, Ziessel Anne, Cavelus Matthias, Sacquet Joelle, Richard Marion, Didier Anne, Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding underlies a one neuron-for-one memory principle. *In review*
-
-Midroit Maellie, Chalençon Laura, Thevenet Marc, Sacquet Joelle, **Forest Jeremy**, Richard Marion, Adrianna Milton, Didier Anne, Wesson Dan, Mandairon Nathalie The reward system supports spontaneous attraction to odorants.
 
 
 #### 2018
