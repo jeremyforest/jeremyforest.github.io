@@ -13,7 +13,7 @@ It's actually been out for a couple of month now, but I'm just taking the time t
 
 What we wanted to know was if and how olfactory bulb neuronal populations (the preexisting neurons and the new neurons born from adult neurogenesis) differ when the animal is learning. We used a non-reinforced passive discrimination learning task with several level of difficulty (environmental complexity) in which the animal was exposed to different number of similar odorants for several days. Then we tested the mice on their ability to discriminate these odorant pairs.
 
-![figure 1](/assets/2020-01-29-paper-complex-perceptual-learning/figure1.jpg)
+![figure 1](/assets/2020-01-29-paper-complex-perceptual-learning/figure1.png)
 
 Animals were able to learn to discriminate all the odorants that we exposed them to.
 
