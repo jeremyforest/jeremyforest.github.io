@@ -26,6 +26,11 @@ header:
 ### ** Currently working on **
 **Forest Jeremy**, Katryn Zimmerman, Anne Didier, Nathalie Mandairon, Christiane Linster. A model of adult-neurogenesis in the olfactory bulb.
 
+**Forest Jeremy**, Alexander Reyes. OPTIMAQS: whOle-oPTical IMaging AcQuisition Software.
+
+
+#### 2020
+Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Norepinephrine, Olfactory Bulb and Memory Stability. *Preprint*, 2020. https://doi.org/10.1101/2020.06.17.153502.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1101/2020.06.17.153502) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
 
 #### 2019
 **Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
@@ -51,6 +56,8 @@ Kermen Florence, Midroit Maellie, Kuczewski Nicola, **Forest Jeremy**, Thevenet 
 
 
 ## ***<a name="talks"></a> Talks***
+
+**Forest Jeremy**, Principles of long-term memory storage in cultured networks. *Rinzel & Reyes lab meeting, June 2020*.
 
 **Forest Jeremy**, Continual learning in Neuroscience. *ContinualAI online meeting, March 2020*.  [![talk](/assets/images/icons/talk-icon.png)](/Papers/ForestTalk2020a.pdf)
 
@@ -82,6 +89,7 @@ Sunada Hiroshi, **Forest Jeremy**, Sakakibara Manabu, Lukowiak Ken Traumatic str
 
 
 ## ***<a name="thesis"></a> Dissertation***
+
 Dissertation: **Forest Jeremy** Impact of adult neurogenesis versus preexisting neurons on olfactory perception in complex or changing olfactory environment. [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/ThesisDissertation.pdf)
 
 Master 2 thesis: **Forest Jeremy** Neuronal plasticity in the olfactory bulb during simple and complex learning. [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/MemoireM2.pdf)
