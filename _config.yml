@@ -96,7 +96,7 @@ author:
   avatar           : /assets/images/Img_Jeremy_CV.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience researcher interesting in learning and memory, metarepresentation and artificial intelligence"
   location         : "New Haven, USA"
-  email            : 
+  email            :
   links:
     - label: 'Email'
       icon: "fas fa-fw fa-envelope-square"
@@ -108,19 +108,19 @@ author:
       icon: "fab fa-fw fa-github"
       url: "jeremyforest"
     - label:linkedin
-      icon: fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: jeremy-forest-318090105
     - label: orcid
-      icon: fab fa-fw fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "0000-0002-8486-5559"
     - label: twitter
       icon: "fab fa-fw fa-twitter-square"
       url: "jerem_forest"
     - label: scholar
-      icon: fab fa-fw fa-google"
+      icon: "fab fa-fw fa-google"
       url: "yx9t92sAAAAJ&hl=fr"
     - label: researchgate
-      icon: fab fa-fw fa-researchgate"
+      icon: "fab fa-fw fa-researchgate"
       url: "Jeremy_Forest2"
 
 # Reading Files
