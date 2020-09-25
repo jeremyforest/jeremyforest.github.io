@@ -97,35 +97,31 @@ author:
   bio              : "Neuroscience researcher interesting in learning and memory, metarepresentation and artificial intelligence"
   location         : "New Haven, USA"
   email            : "jerem.forest@gmail.com"
-  uri              : "https://jeremyforest.github.io/"
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "jeremyforest"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : jeremy-forest-318090105/ # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  orcid            : "0000-0002-8486-5559"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : "jerem_forest"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  scholar          : "yx9t92sAAAAJ&hl=fr"
-  researchgate     : "Jeremy_Forest2"
-
+  links:
+    - label: 'Email'
+      icon: "fas fa-fw fa-envelope-square"
+      url: jerem.forest@gmail.com
+    - label: 'Website'
+      icon: "fas fa-fw fa-link"
+      url: "https://jeremyforest.github.io/"
+    - label: 'github'
+      icon: "fab fa-fw fa-github"
+      url: "jeremyforest"
+    - label:linkedin
+      icon: fab fa-fw fa-linkedin"
+      url: jeremy-forest-318090105
+    - label: orcid
+      icon: fab fa-fw fa-orcid"
+      url: "0000-0002-8486-5559"
+    - label: twitter
+      icon: "fab fa-fw fa-twitter-square"
+      url: "jerem_forest"
+    - label: scholar
+      icon: fab fa-fw fa-google"
+      url: "yx9t92sAAAAJ&hl=fr"
+    - label: researchgate
+      icon: fab fa-fw fa-researchgate"
+      url: "Jeremy_Forest2"
 
 # Reading Files
 include:
