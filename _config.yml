@@ -96,11 +96,11 @@ author:
   avatar           : /assets/images/Img_Jeremy_CV.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience researcher interesting in learning and memory, metarepresentation and artificial intelligence"
   location         : "New Haven, USA"
-  email            : "jerem.forest@gmail.com"
+  email            : 
   links:
     - label: 'Email'
       icon: "fas fa-fw fa-envelope-square"
-      url: jerem.forest@gmail.com
+      url: mailto:jerem.forest@gmail.com
     - label: 'Website'
       icon: "fas fa-fw fa-link"
       url: "https://jeremyforest.github.io/"
