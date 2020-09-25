@@ -106,22 +106,22 @@ author:
       url: "https://jeremyforest.github.io/"
     - label: 'github'
       icon: "fab fa-fw fa-github"
-      url: "jeremyforest"
+      url: "https://github.com/jeremyforest"
     - label: 'linkedin'
       icon: "fab fa-fw fa-linkedin"
-      url: jeremy-forest-318090105
+      url: "https://www.linkedin.com/in/jeremy-forest-318090105/"
     - label: 'orcid'
       icon: "fab fa-fw fa-orcid"
-      url: "0000-0002-8486-5559"
+      url: "https://orcid.org/0000-0002-8486-5559"
     - label: 'twitter'
       icon: "fab fa-fw fa-twitter-square"
-      url: "jerem_forest"
+      url: "https://twitter.com/jerem_forest"
     - label: 'scholar'
       icon: "fab fa-fw fa-google"
-      url: "yx9t92sAAAAJ&hl=fr"
+      url: "https://scholar.google.fr/citations?hl=en&pli=1&user=yx9t92sAAAAJ"
     - label: 'researchgate'
       icon: "fab fa-fw fa-researchgate"
-      url: "Jeremy_Forest2"
+      url: "https://www.researchgate.net/profile/Jeremy_Forest2"
 
 # Reading Files
 include:
