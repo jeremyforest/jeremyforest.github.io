@@ -1,4 +1,4 @@
---- 
+---
 permalink: /papers/
 author_profile: true
 layout: publication
@@ -33,7 +33,7 @@ Midroit Maellie, Chalençon Laura, Renier Nicolas, Milton Adriana, Thevenet Marc
 **Forest Jeremy**, Zimmerman Katryn, Didier Anne, Mandairon Nathalie, Linster Christiane. A model of adult-neurogenesis in the olfactory bulb.
 
 #### 2020
-Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Noradrenergic activity in the olfactory bulb is a key element for the stability of olfactory memory. Journal of Neuroscience, vol. 40, no. 48, pp. 9260–9271, Nov. 2020, [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI\.1769-20.2020)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
+Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Noradrenergic activity in the olfactory bulb is a key element for the stability of olfactory memory. Journal of Neuroscience, vol. 40, no. 48, pp. 9260–9271, Nov. 2020, [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI.1769-20.2020)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
 
 #### 2019
 **Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
