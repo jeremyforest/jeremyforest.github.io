@@ -1,4 +1,4 @@
----
+--- fs w
 permalink: /papers/
 author_profile: true
 layout: publication
@@ -24,13 +24,16 @@ header:
 
 
 ### ** Currently working on **
-**Forest Jeremy**, Katryn Zimmerman, Anne Didier, Nathalie Mandairon, Christiane Linster. A model of adult-neurogenesis in the olfactory bulb.
+Molano-Mazon Manuel, Pastor-Ciurana, Fradera Marta, Zhang Ru-Yuan, **Forest Jeremy**, del Pozo Jorge, Barbosa Joao, Ji-An Li, Cueva Christopher, Compte Albert, de la Rocha Jaime, Yang Guangyu Robert. [Neurogym repo](https://github.com/neurogym/neurogym)
 
-**Forest Jeremy**, Alexander Reyes. OPTIMAQS: whOle-oPTical IMaging AcQuisition Software.
+**Forest Jeremy**, Reyes Alex. Integrated whole optical electrophysiology pipeline: From acquisition to analysis using whOle-oPTical IMaging AcQuisition software (OPTIMAQS) and whOle-oPTical IMaging analysis pipeline (OPTIMAS). [OPTIMAQS repo](https://github.com/jeremyforest/whole_optic_gui) and [OPTIMAS repo](https://github.com/jeremyforest/whole_optic_analysis_pipeline)
 
+Midroit Maellie, Chalençon Laura, Renier Nicolas, Milton Adriana, Thevenet Marc, Sacquet Joelle, Breton Marine, **Forest Jeremy**, Noury Norbert, Richard Marion, Raineteau Olivier, Ferdenzi Camille, Fournel Arnaud, Wesson Dan, Bensafi Moustafa, Didier Anne, and Mandairon Nathalie. Odorants as natural reward: Behavioral evidence and underlying circuitry of odorant attraction from mice to humans. Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 3707269, Oct. 21, 2020. [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.2139/ssrn.3707269)
+
+**Forest Jeremy**, Zimmerman Katryn, Didier Anne, Mandairon Nathalie, Linster Christiane. A model of adult-neurogenesis in the olfactory bulb.
 
 #### 2020
-Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Norepinephrine, Olfactory Bulb and Memory Stability. *Preprint*, 2020. https://doi.org/10.1101/2020.06.17.153502.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1101/2020.06.17.153502) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
+Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Noradrenergic activity in the olfactory bulb is a key element for the stability of olfactory memory. Journal of Neuroscience, vol. 40, no. 48, pp. 9260–9271, Nov. 2020, [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI\.1769-20.2020)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
 
 #### 2019
 **Forest Jérémy**, Moreno Mélissa, Cavelius Matthias, Chalençon Laura, Ziessel Anne, Sacquet Joëlle, Richard Marion, Didier Anne & Mandairon Nathalie. Short-term availability of adult-born neurons for memory encoding. *Nature Communications 2019;10,5609*.[![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1038/s41467-019-13521-7) [![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Forest2019b.pdf)
