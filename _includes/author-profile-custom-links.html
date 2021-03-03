@@ -1,0 +1,32 @@
+<!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+
+{% if author.orcid %}
+<li>
+  <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+    <i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> Orcid
+  </a>
+</li>
+{% endif %}
+
+{% if author.scholar %}
+<li>
+  <a href="https://scholar.google.com/citations?user={{ author.scholar }}" itemprop="sameAs">
+    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+  </a>
+</li>
+{% endif %}
+
+
+{% if author.researchgate %}
+<li>
+  <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+    <i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate
+  </a>
+</li>
+{% endif %}

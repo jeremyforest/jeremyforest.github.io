@@ -1,0 +1,52 @@
+---
+layout: archive
+---
+
+
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].about_me | default: "About Me" }}</h3>
+<p> I am interested in the biological and computational mechanisms underlying learning and memory and how these mechanisms enable
+  the emergence of metarepresentation and more particularly metalearning. </p>
+
+<p>I obtained my Phd in Neuroscience in France from Lyon 1 University in December 2017. My project was supervised by Nathalie Mandairon and Anne Didier
+from the neuropop team of the <a href="https://crnl.univ-lyon1.fr/index.php/en">Lyon Neuroscience Research Center </a>. My thesis work was focused on
+understanding the learning and memory mechanisms involved in olfactory perceptual learning in the olfactory bulb in mice. My focus was to understand
+how the olfactory bulb circuitry -involving both preexisting and adult-born neurons- is modified after complex environmental modifications
+(involving the discrimination learning of several pairs of perceptualy close odorants at the same time) or changing environmental modifications (involving
+the discrimination
+learning of different pairs of odorants over time). I studied this using mice behavioral analysis, immunochemistry staining, neuron morphologogy analysis,
+optogenetics and modeling (integrate and fire neurons).
+</p>
+
+<p>I am now a postdoctoral associate at New York University, in the lab of <a href="http://www.cns.nyu.edu/corefaculty/Reyes.php"> Alexander Reyes </a>.
+The project I'm working on is a
+collaboration between Alex's lab and the lab of <a href="https://ctn.zuckermaninstitute.columbia.edu/people/stefano-fusi"> Stefano Fusi </a> at Columbia University where
+I am a visiting scholar. It's a project still centered around learning and
+memory mechanisms, however it involves both an in-vitro and a modeling approach working synergically. The in vitro approach uses cortical neuron
+cultures and whole-optic electrophysiology to probe memory storage abilities based on the modeling approach that elaborated a memory storage model of
+long-term memory. Working back and forth between those two approches we hope to validate the computational model by contributing essential missing
+variable from in-vitro networks and at the same time improve the model's abilities to represent mechanisms of biological learning and memory storage.
+</p>
+
+
+
+
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
