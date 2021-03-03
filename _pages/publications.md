@@ -30,9 +30,9 @@ header:
 
 
 #### 2021
-Molano-Mazon Manuel, Pastor-Ciurana, Fradera Marta, Zhang Ru-Yuan, **Forest Jeremy**, del Pozo Jorge, Barbosa Joao, Ji-An Li, Cueva Christopher, Compte Albert, de la Rocha Jaime, Yang Guangyu Robert. Neurogym: An open resource to developing and sharing neuroscience tasks. Cosyne 2021 [Neurogym repo](https://github.com/neurogym/neurogym)
+Molano-Mazon Manuel, Pastor-Ciurana, Fradera Marta, Zhang Ru-Yuan, **Forest Jeremy**, del Pozo Jorge, Barbosa Joao, Ji-An Li, Cueva Christopher, Compte Albert, de la Rocha Jaime, Yang Guangyu Robert. Neurogym: An open resource to developing and sharing neuroscience tasks. Cosyne 2021 [Neurogym repo](https://github.com/neurogym/neurogym)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Cosyne2021Neurogym.pdf)
 
-Midroit Maellie, Chalençon Laura, Renier Nicolas, Milton Adriana, Thevenet Marc, Sacquet Joelle, Breton Marine, **Forest Jeremy**, Noury Norbert, Richard Marion, Raineteau Olivier, Ferdenzi Camille, Fournel Arnaud, Wesson Dan, Bensafi Moustafa, Didier Anne, and Mandairon Nathalie. Neural processing of the reward value of pleasant odorants. Current Biology. February 18, 2021 [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1016/j.cub.2021.01.066)
+Midroit Maellie, Chalençon Laura, Renier Nicolas, Milton Adriana, Thevenet Marc, Sacquet Joelle, Breton Marine, **Forest Jeremy**, Noury Norbert, Richard Marion, Raineteau Olivier, Ferdenzi Camille, Fournel Arnaud, Wesson Dan, Bensafi Moustafa, Didier Anne, and Mandairon Nathalie. Neural processing of the reward value of pleasant odorants. Current Biology. February 18, 2021 [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1016/j.cub.2021.01.066)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Midroit2021.pdf)
 
 #### 2020
 Linster Christiane, Midroit Maellie, **Forest Jérémy**, Thenaisie  Yohann, Cho  Christina, Richard  Marion, Didier  Anne & Mandairon  Nathalie. Noradrenergic activity in the olfactory bulb is a key element for the stability of olfactory memory. Journal of Neuroscience, vol. 40, no. 48, pp. 9260–9271, Nov. 2020, [![doi](/assets/images/icons/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI.1769-20.2020)[![pdf](/assets/images/icons/pdf-icon.png)](/Papers/Linster2020.pdf)
